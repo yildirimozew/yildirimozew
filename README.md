@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on 'eGPT': a local profile based RAG solution that supports several languages for security-based companies and blue-collar workers.<br>👯 I’m looking to collaborate on 'ReviewLife': a simplistic website where you can review your life and leave comments on what you think about your experience here?!<br>🌱 I’m currently learning ML/AI <br>
+🔭 I’m currently working on 'eGPT': a local profile based RAG solution that supports several languages for security-based companies and blue-collar workers.<br>👯 I’m looking to collaborate on 'ReviewLife': a simplistic website where you can review your life and leave comments on what you think about your experience here?!<br>
 
 
 ## 🌐 Socials:
